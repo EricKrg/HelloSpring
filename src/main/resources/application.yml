@@ -3,3 +3,9 @@ controller:
 messages:
   greet: "Greetings Sir"
   bye: "So long!"
+myconfig:
+  appName: Bla
+  desc: "Cool app is cool"
+  adminFirst: "Eric"
+  adminLast: "Krueger"
+  adminEmail: "bla@bla.bla"
