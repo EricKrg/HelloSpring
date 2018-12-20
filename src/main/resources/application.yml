@@ -1,0 +1,5 @@
+controller:
+  hello: "hello yaml"
+messages:
+  greet: "Greetings Sir"
+  bye: "So long!"
